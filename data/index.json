@@ -1,0 +1,401 @@
+{
+    "about":[
+       "I'm excited to invite you to explore and get to know a bit more about me. I'm Leah Basson, a 19-year-old from the southern suburbs, with a passion for design and web development. I am goal oriented, sometimes I lose track of time because I'm so invested in my tasks and projects. I am an organized person so I like making to do lists. I'm not afraid to ask questions and I work well in a team."
+    ],
+
+    "quote":[
+        "”Dream it and then make it happen”"
+    ],
+
+    "resume":[
+        {
+            "id": 1,
+            "certificate": "Currently an intern at LC Studio",
+            "place": "Lansdowne, Cape Town, 2024"
+        },
+        {
+            "id": 2,
+            "certificate": "Completed course at Life Choices Coding Academy",
+            "place": "Lansdowne, Cape Town, 2024"
+        },
+        {
+            "id": 3,
+            "certificate": "Certificate of Higher Education: Microsoft IT Academy",
+            "place": "College Of Cape Town - Cape Town South Africa, 2023"
+        },
+        { 
+            "id": 4,
+            "certificate": "Bachelor’s Pass: Matric",
+            "place": "Alexander Sinton High School - Athlone, Cape Town, 2022"
+        } 
+    ],
+
+    "subjects": [
+        {
+            "id": 1,
+            "title":"Three Highest Scoring Subjects:",
+            "subject1": "Life Orientation - 80%",
+            "subject2":  "Business Studies - 74%",
+            "subject3": "Afrikaans - 72%" 
+        }
+    ],
+
+    "certificateIntro": [
+        {
+            "id": 1,
+            "img_url":"https://leahbasson.github.io/MyImages/images/aws_image.jpg",
+            "title":"AWS"
+        },
+        {
+            "id": 2,
+            "img_url":"https://leahbasson.github.io/MyImages/images/GirlCodeLogo.png",
+            "title":"Girl Code"
+        },
+        {
+            "id": 3,
+            "img_url":"https://leahbasson.github.io/MyImages/images/lifechoices_image.jpg",
+            "title":"Life Choices Academy"
+        },
+        {
+            "id": 4,
+            "img_url":"https://leahbasson.github.io/MyImages/images/COCT.png",
+            "title":"College of Cape Town"
+        }
+    ],
+
+    "certificates": [
+        {
+            "id": 1,
+            "img_url":"https://leahbasson.github.io/MyImages/images/IntroToAws.png",
+            "certificate":"Introduction to the AWS Cloud"
+        },
+        {
+            "id": 2,
+            "img_url":"https://leahbasson.github.io/MyImages/images/BuildingACloudCareer.png",
+            "certificate":"Building a Cloud Career"
+        },
+        {
+            "id": 3,
+            "img_url":"https://leahbasson.github.io/MyImages/images/DemistifyingGenAi.png",
+            "certificate":"Demystifying Generative AI"
+        },
+        {
+            "id": 4,
+            "img_url":"https://leahbasson.github.io/MyImages/images/JobRolesInTheCloud.png",
+            "certificate":"Job Roles in the Cloud"
+        },
+        {
+            "id": 5,
+            "img_url":"https://leahbasson.github.io/MyImages/images/WhyGetAwsCertified.png",
+            "certificate":"Why Get AWS Certified?"
+        },
+        {
+            "id": 6,
+            "img_url":"https://leahbasson.github.io/MyImages/images/CF1.png",
+            "certificate":"Computer Foundations: Part 1 – Computer & Network Hardware"
+        },
+        {
+            "id": 7,
+            "img_url":"https://leahbasson.github.io/MyImages/images/CF2.png",
+            "certificate":"Computer Foundations: Part 2 - Security"
+        },
+        {
+            "id": 8,
+            "img_url":"https://leahbasson.github.io/MyImages/images/CF3.png",
+            "certificate":"Computer Foundations: Part 3 – Storage and Databases"
+        },
+        {
+            "id": 9,
+            "img_url":"https://leahbasson.github.io/MyImages/images/CF4.png",
+            "certificate":"Computer Foundations: Part 4 - Networking"
+        },
+        {
+            "id": 10,
+            "img_url":"https://leahbasson.github.io/MyImages/images/BCP1.png",
+            "certificate":"Becoming a Cloud Practitioner - Part 1 - AWS Cloud Basics"
+        },
+        {
+            "id": 11,
+            "img_url":"https://leahbasson.github.io/MyImages/images/BCP2.png",
+            "certificate":"Becoming a Cloud Practitioner - Part 2 - Compute, Networking, and Account Strategies"
+        },
+        {
+            "id": 12,
+            "img_url":"https://leahbasson.github.io/MyImages/images/BCP3.png",
+            "certificate":"Becoming a Cloud Practitioner - Part 3 - Identities, Security, and Monitoring the AWS Cloud"
+        },
+        {
+            "id": 13,
+            "img_url":"https://leahbasson.github.io/MyImages/images/BCP4.png",
+            "certificate":"Becoming a Cloud Practitioner - Part 4 - Advanced Cloud Services"
+        },
+        {
+            "id": 14,
+            "img_url":"https://leahbasson.github.io/MyImages/images/BCPLab.png",
+            "certificate":"Becoming a Cloud Practitioner Lab Session"
+        },
+        {
+            "id": 15,
+            "img_url":"https://leahbasson.github.io/MyImages/images/ExamPrepCertificate.png",
+            "certificate":"Exam Prep - AWS Certified Cloud Practitioner (CLF-C02)"
+        },
+        {
+            "id": 16,
+            "img_url":"https://leahbasson.github.io/MyImages/images/LCCertificate.png",
+            "certificate":"Life Choices - Coding Course completion certificate"
+        },
+        {
+            "id": 17,
+            "img_url":"https://leahbasson.github.io/MyImages/images/GirlsCode.png",
+            "certificate":"Girl Code Hackathon"
+        },
+        {
+            "id": 18,
+            "img_url":"https://leahbasson.github.io/MyImages/images/resultsCOCT.jpg",
+            "certificate":"College of Cape Town - results"
+        },
+        {
+            "id": 19,
+            "img_url":"https://leahbasson.github.io/MyImages/images/completionCertificateCOCT.jpg",
+            "certificate":"College of Cape Town - completion certificate"
+        },
+        {
+            "id": 20,
+            "img_url":"https://leahbasson.github.io/MyImages/images/coverLetterCOCT.jpg",
+            "certificate":"College of Cape Town - letter of good conduct"
+        }
+    ],
+
+    "bagdes": [
+        {
+            "id":1,
+            "bagde":"https://leahbasson.github.io/MyImages/images/OSBBadge.png",
+            "certificate":"https://leahbasson.github.io/MyImages/images/OSBCertificate.png",
+            "title":"Operating Systems Basics"
+        },
+        {
+            "id":2,
+            "bagde":"https://leahbasson.github.io/MyImages/images/linuxBadge.png",
+            "certificate":"https://leahbasson.github.io/MyImages/images/LinuxUnhatchedCertificate.png",
+            "title":"Linux Unhatched"
+        },
+        {
+            "id":3,
+            "bagde":"https://leahbasson.github.io/MyImages/images/junior-cybersecurity-analyst-career-badge.png",
+            "certificate":"https://leahbasson.github.io/MyImages/images/junior-cybersecurity-analyst-certificate.png",
+            "title":"Junior Cybersecurity Analyst"
+        },
+        {
+            "id":4,
+            "bagde":"https://leahbasson.github.io/MyImages/images/UIUX.png",
+            "img_url":"https://leahbasson.github.io/MyImages/images/UiAndUxDoc.png",
+            "title":"UI/UX Hackathon"
+        },
+        {
+            "id":5,
+            "bagde":"https://leahbasson.github.io/MyImages/images/SCRUM.png",
+            "img_url":"https://leahbasson.github.io/MyImages/images/ScrumDoc.png",
+            "title":"SCRUM Hackathon"
+        }
+    ],
+
+    "skills":[
+    {
+        "id": 1,
+        "skillName":"HTML 5 : ",
+        "level":"Intermediate",
+        "description": "My understanding of html is that its used to layout your website. I can comfortably use html5 hence why I feel that I am at an intermediate level. I know how to apply the html5 elements and attributes."
+    },
+    {
+        "id": 2,
+        "skillName":"CSS : ",
+        "level": "Intermediate",
+        "description": "CSS is used to style the layout of your web pages. I am good at using CSS to make aesthetically pleasing websites."
+    },
+    {
+        "id": 3,
+        "skillName":"Bootstrap : ",
+        "level":"Intermediate",
+        "description": "Bootstrap is a CSS framework used to make responsive websites. I am able to achieve responsive websites using bootstrap."
+    },
+    {
+        "id": 4,
+        "skillName":"Adobe Photoshop : ",
+        "level":"Advanced",
+        "description": "Photoshop is used by editors to crop photos, correct lighting, create collages, layer images together and lots more. I have created logos, digital artwork and advertisements using photoshop."
+    },
+    {
+        "id": 5,
+        "skillName":"Figma : ",
+        "level":"Intermediate",
+        "description": "Figma is easy to navigate. I can comfortably use it like a pro."
+    },
+    {
+        "id": 6,
+        "skillName":"Javascript : ",
+        "level":"Beginner",
+        "description": "I understand basic concepts in Javascript like  variables, data types, functions, and control structures (loops, conditionals).I have basic skills in manipulating HTML and CSS using JavaScript."
+    },
+    {
+        "id": 7,
+        "skillName":"VueJs : ",
+        "level":"Beginner",
+        "description": "I have an understanding of core concepts such as directives and data binding.I know how to create and manage Vue components. I know how to manage events and communicate between components using props. I have basic knowledge of using Vue CLI for project setup and development."
+    },
+    {
+        "id":8,
+        "skillName":"NodeJS : ",
+        "level":"Beginner",
+        "description":"I have a basic understanding of core concepts such as how Node.js works as a JavaScript runtime on the server. I know how to use modules to organize and structure code, including using both built-in modules like fs and http and third-party modules installed via NPM.I can create and manage a basic HTTP server using Node.js, handle simple routing for different requests, and work with asynchronous functions using callbacks, promises, and async/await.I have a foundational knowledge of using Node Package Manager (NPM) for managing dependencies and setting up basic Node.js projects. I can manage environment variables and have an introductory understanding of Express.js for building web applications and APIs."
+    }
+    ],
+
+    "projects":[
+        {
+            "id": 1,
+            "projectName":"Forever Gems Website",
+            "description":"I designed a jewelry website called 'Forever Gems'. The platform focuses primarily on women’s products, while also offering a selection of men’s items.",
+            "img_url":"https://leahbasson.github.io/MyImages/images/foreverGemsWebsite.png",
+            "gitHub":"https://github.com/LeahBasson/foreverGems.git",
+            "hostedLink":"https://forever-gems.vercel.app",
+            "category":"Website"
+        },
+        {
+            "id": 2,
+            "projectName":"Sun Eco Travel",
+            "description":"For my final project at Life Choices I was assigned a project to build a responsive full-stack application and integrate all the skills that I have learned thus far. Those skills are database, API (application programming interface) using Express JS, and Vue JS. I made a booking system for hotels.",
+            "img_url":"https://leahbasson.github.io/MyImages/images/sunEcoTravel.png",
+            "gitHub":"https://github.com/LeahBasson/sunEcoTravel.git",
+            "hostedLink":"https://capstone-project-a7027.web.app/",
+            "category":"Website"
+        },
+        {
+            "id": 3,
+            "projectName":"Skin Oasis",
+            "description":"This is an e-commerce project that sells skincare products. It was a group project and we implemented this using VUE 3 JS, Express JS, and MySQL database",
+            "img_url":"https://leahbasson.github.io/MyImages/images/skinOasis.png",
+            "gitHub":"https://github.com/LeahBasson/vueSkincareDemo.git",
+            "hostedLink":"https://fullstack-project-6e1ec.web.app/",
+            "category":"Website"
+        },
+        {
+            "id": 4,
+            "projectName":"ElevatED Logo",
+            "description":"I designed a logo for the girl code hackathon solution. It was an educational website.",
+            "img_url":"https://leahbasson.github.io/MyImages/competitionProject/finalElevateEd.png",
+            "gitHub":"https://github.com/LeahBasson/elevatEDLogo.git",
+            "hostedLink":"https://elevat-ed-logo.vercel.app/",
+            "category": "Logo"
+        },
+        {
+            "id": 5,
+            "projectName":"Island",
+            "description":"Island with dragons from How To Train A Dragon Movie with night background.",
+            "img_url": "https://leahbasson.github.io/MyImages/images/Island.png",
+            "gitHub":"https://github.com/LeahBasson/islandArtwork.git",
+            "hostedLink": "https://island-artwork.vercel.app",
+            "category":"Digital Artwork"
+        },
+        {
+            "id": 6,
+            "projectName":"BMI Calculator",
+            "description":"The BMI Calulator is a tool to help you find out if you're a healthy weight for your height.",
+            "img_url":"https://leahbasson.github.io/MyImages/images/bmiCalculator.png",
+            "gitHub":"https://github.com/LeahBasson/bmiCalculator.git",
+            "hostedLink":"https://bmi-calculator-alpha-lac.vercel.app",
+            "category": "Mini Project"
+        },
+        {
+            "id": 7,
+            "projectName":"Aqua",
+            "description": "Text Effect with liquid.",
+            "img_url": "https://leahbasson.github.io/MyImages/images/Aqua.png",
+            "gitHub":"https://github.com/LeahBasson/aqua.git",
+            "hostedLink":"https://aqua-black.vercel.app",
+            "category":"Digital Artwork"
+        },
+        {
+            "id": 8,
+            "projectName":"Temperature Converter",
+            "description":"A Temperature Converter to convert Celsius to Fahrenheit",
+            "img_url":"https://leahbasson.github.io/MyImages/images/tempConverter.png",
+            "gitHub":"https://github.com/LeahBasson/tempConverter.git",
+            "hostedLink":"https://temp-converter-dun.vercel.app",
+            "category":"Mini Project"
+        },
+        {
+            "id": 9,
+            "projectName":"Easter",
+            "description":"This was made in Adobe Photoshop.",
+            "img_url":"https://leahbasson.github.io/MyImages/images/easter.png",
+            "gitHub":"https://github.com/LeahBasson/easter.git",
+            "hostedLink":"https://easter-jet.vercel.app",
+            "category":"Digital Artwork"
+        },
+        {
+            "id": 10,
+            "projectName":"Home Decor Logo",
+            "description":"Logo for Home Decor website called Serene Decor. The slogan is 'mi Casa su Casa' which means my home is your home.",
+            "img_url":"https://leahbasson.github.io/MyImages/images/HomeDecorLogo2.png",
+            "gitHub":"https://github.com/LeahBasson/homeDecor.git",
+            "hostedLink":"https://home-decor-neon.vercel.app",
+            "category":"Logo"
+        },
+        {
+            "id": 11,
+            "projectName":"Skin Oasis Logo",
+            "description":"Logo for skincare website.",
+            "img_url":"https://leahbasson.github.io/MyImages/skincareWebsite/skincareLogo3.png",
+            "gitHub":"https://github.com/LeahBasson/skinCareLogo.git",
+            "hostedLink":"https://skin-care-logo.vercel.app/",
+            "category":"Logo"
+        },
+        {
+            "id": 12,
+            "projectName":"Calculator",
+            "description":"I was assigned a task to make a calculator using css, html and javascript.",
+            "img_url": "https://leahbasson.github.io/MyImages/images/Calculator2.png",
+            "gitHub":"https://github.com/LeahBasson/Calculator.git",
+            "hostedLink":"https://calculator-gold-chi.vercel.app",
+            "category":"Mini Project"
+        }
+    ], 
+   
+    "testimonials":[{
+        "id": 1,
+        "img_url": "https://leahbasson.github.io/MyImages/images/Jamin.png",
+        "testimonial":"Leah is a remarkably hardworking individual. Her dedication to her tasks is truly unparalleled. She approaches every project with a level of enthusiasm and commitment that is both inspiring and infectious. In the time I have known her, she has consistently demonstrated an exceptional work ethic and determination. Leah's hard work, dedication, and positive attitude are qualities that anyone would admire. AND I THINK SHE IS THEE MOST BEAUTIFUL.",
+        "Name": "Jamin Langeveldt"
+    } ,
+    {
+        "id": 3,
+        "img_url": "https://leahbasson.github.io/MyImages/images/Katelin.png",
+        "testimonial":"I have always found Leah to be knowledgable and hardworking. She has a keen eye for design and willing to put in the time to make things perfect. She has a can do, will do, action-orientated manner which will bring benefit to anyone she works with.",
+        "Name":"Katelin Bock"
+    } , 
+    {
+        "id": 2,
+        "img_url": "https://leahbasson.github.io/MyImages/images/joel5.png",
+        "testimonial":"Leah Basson is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer.",
+        "Name":"Joel Mukanya"
+    } , 
+    {
+        "id": 4,
+        "img_url": "https://leahbasson.github.io/MyImages/images/Tarryn.png",
+        "testimonial":"Leah has always been someone that could adapt to the learning pace, always coming up with new ideas and thriving in wanting to know more.",
+        "Name":"Tarryn Arendse"
+    },
+    {
+        "id": 6,
+        "img_url": "https://leahbasson.github.io/MyImages/images/PortBalc3.jpg",
+        "testimonial":"Leah is a hardworking and diligent individual who is always ready to work, learn new things and achieve higher results. An ambitious and focused individual, but can also be cheerful and friendly when need be.",
+        "Name": "Keenan Timmie"
+    },
+    {
+        "id": 5,
+        "img_url": "https://leahbasson.github.io/MyImages/images/Zoe.png",
+        "testimonial":"Leah Basson has a great talent for development. She always has great ideas and suggestions, her work is always done to the best of her ability.",
+        "Name": "Zoë Saaiers"
+    }
+    ]
+}
