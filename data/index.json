@@ -203,48 +203,56 @@
     {
         "id": 1,
         "skillName":"HTML 5 : ",
+        "img_url":"https://leahbasson.github.io/MyImages/images/html-icon.png",
         "level":"Intermediate",
         "description": "My understanding of html is that its used to layout your website. I can comfortably use html5 hence why I feel that I am at an intermediate level. I know how to apply the html5 elements and attributes."
     },
     {
         "id": 2,
         "skillName":"CSS : ",
+        "img_url":"https://leahbasson.github.io/MyImages/images/css-icon.png",
         "level": "Intermediate",
         "description": "CSS is used to style the layout of your web pages. I am good at using CSS to make aesthetically pleasing websites."
     },
     {
         "id": 3,
         "skillName":"Bootstrap : ",
+        "img_url":"https://leahbasson.github.io/MyImages/images/bootstrap-icon.png",
         "level":"Intermediate",
         "description": "Bootstrap is a CSS framework used to make responsive websites. I am able to achieve responsive websites using bootstrap."
     },
     {
         "id": 4,
         "skillName":"Adobe Photoshop : ",
+        "img_url":"https://leahbasson.github.io/MyImages/images/photoshop-icon.png",
         "level":"Advanced",
         "description": "Photoshop is used by editors to crop photos, correct lighting, create collages, layer images together and lots more. I have created logos, digital artwork and advertisements using photoshop."
     },
     {
         "id": 5,
         "skillName":"Figma : ",
+        "img_url":"https://leahbasson.github.io/MyImages/images/figma-icon.png",
         "level":"Intermediate",
         "description": "Figma is easy to navigate. I can comfortably use it like a pro."
     },
     {
         "id": 6,
         "skillName":"Javascript : ",
+        "img_url":"https://leahbasson.github.io/MyImages/images/javascript-icon.png",
         "level":"Beginner",
         "description": "I understand basic concepts in Javascript like  variables, data types, functions, and control structures (loops, conditionals).I have basic skills in manipulating HTML and CSS using JavaScript."
     },
     {
         "id": 7,
         "skillName":"VueJs : ",
+        "img_url":"https://leahbasson.github.io/MyImages/images/vuejs-icon.png",
         "level":"Beginner",
         "description": "I have an understanding of core concepts such as directives and data binding.I know how to create and manage Vue components. I know how to manage events and communicate between components using props. I have basic knowledge of using Vue CLI for project setup and development."
     },
     {
         "id":8,
         "skillName":"NodeJS : ",
+        "img_url":"https://leahbasson.github.io/MyImages/images/nodejs-icon.png",
         "level":"Beginner",
         "description":"I have a basic understanding of core concepts such as how Node.js works as a JavaScript runtime on the server. I know how to use modules to organize and structure code, including using both built-in modules like fs and http and third-party modules installed via NPM.I can create and manage a basic HTTP server using Node.js, handle simple routing for different requests, and work with asynchronous functions using callbacks, promises, and async/await.I have a foundational knowledge of using Node Package Manager (NPM) for managing dependencies and setting up basic Node.js projects. I can manage environment variables and have an introductory understanding of Express.js for building web applications and APIs."
     }
