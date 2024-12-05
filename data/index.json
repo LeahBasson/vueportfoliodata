@@ -210,14 +210,14 @@
     {
         "id": 2,
         "skillName":"CSS",
-        "img_url":"https://leahbasson.github.io/MyImages/images/css-icon.png",
+        "img_url":"https://leahbasson.github.io/MyImages/images/icons8-css-150.png",
         "level": "Intermediate",
         "description": "CSS is used to style the layout of your web pages. I am good at using CSS to make aesthetically pleasing websites."
     },
     {
         "id": 3,
         "skillName":"Bootstrap",
-        "img_url":"https://leahbasson.github.io/MyImages/images/bootstrap-icon.png",
+        "img_url":"https://leahbasson.github.io/MyImages/images/icons8-bootstrap-96.png",
         "level":"Intermediate",
         "description": "Bootstrap is a CSS framework used to make responsive websites. I am able to achieve responsive websites using bootstrap."
     },
