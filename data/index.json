@@ -7,27 +7,33 @@
         "”Dream it and then make it happen”"
     ],
 
-    "resume":[
+    "education":[
         {
             "id": 1,
-            "certificate": "Currently an intern at LC Studio",
-            "place": "Lansdowne, Cape Town, 2024"
+            "year":"2024",
+            "certificate":"Fullstack Web Development Course",
+            "location":"Life Choices - Lansdowne, Cape Town"
         },
         {
             "id": 2,
-            "certificate": "Completed course at Life Choices Coding Academy",
-            "place": "Lansdowne, Cape Town, 2024"
+            "year":"2023",
+            "certificate":"Web Applications Development Course",
+            "location":"College of Cape Town - Crawford, Cape Town"
         },
         {
             "id": 3,
-            "certificate": "Certificate of Higher Education: Microsoft IT Academy",
-            "place": "College Of Cape Town - Cape Town South Africa, 2023"
-        },
-        { 
-            "id": 4,
-            "certificate": "Bachelor’s Pass: Matric",
-            "place": "Alexander Sinton High School - Athlone, Cape Town, 2022"
-        } 
+            "year":"2022",
+            "certificate":"Matric: Bachelor's Pass",
+            "location":"Alexander Sinton High School - Athlone, Cape Town"
+        }
+    ],
+
+    "experience": [
+        {
+            "id": 1,
+            "certificate": "Currently an intern",
+            "place": "LC Studio - Lansdowne, Cape Town"
+        }
     ],
 
     "subjects": [
