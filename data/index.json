@@ -44,6 +44,16 @@
         }
     ],
 
+    "subjects": [
+        {
+            "id": 1,
+            "title":"Three Highest Scoring Subjects:",
+            "subject1": "Life Orientation - 80%",
+            "subject2":  "Business Studies - 74%",
+            "subject3": "Afrikaans - 72%" 
+        }
+    ],
+
     "certificateIntro": [
         {
             "id": 1,
