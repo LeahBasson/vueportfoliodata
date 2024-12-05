@@ -202,7 +202,7 @@
     "skills":[
     {
         "id": 1,
-        "skillName":"HTML 5",
+        "skillName":"HTML",
         "img_url":"https://leahbasson.github.io/MyImages/images/html-icon.png",
         "level":"Intermediate",
         "description": "My understanding of html is that its used to layout your website. I can comfortably use html5 hence why I feel that I am at an intermediate level. I know how to apply the html5 elements and attributes."
