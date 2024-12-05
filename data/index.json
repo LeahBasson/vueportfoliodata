@@ -31,8 +31,8 @@
     "experience": [
         {
             "id": 1,
-            "certificate": "Currently an intern",
-            "place": "LC Studio - Lansdowne, Cape Town"
+            "job": "Currently an intern",
+            "location": "LC Studio - Lansdowne, Cape Town"
         }
     ],
 
