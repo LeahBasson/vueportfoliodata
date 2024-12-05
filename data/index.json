@@ -254,7 +254,7 @@
         "skillName":"NodeJS : ",
         "img_url":"https://leahbasson.github.io/MyImages/images/nodejs-icon.png",
         "level":"Beginner",
-        "description":"I have a basic understanding of core concepts such as how Node.js works as a JavaScript runtime on the server. I know how to use modules to organize and structure code, including using both built-in modules like fs and http and third-party modules installed via NPM.I can create and manage a basic HTTP server using Node.js, handle simple routing for different requests, and work with asynchronous functions using callbacks, promises, and async/await.I have a foundational knowledge of using Node Package Manager (NPM) for managing dependencies and setting up basic Node.js projects. I can manage environment variables and have an introductory understanding of Express.js for building web applications and APIs."
+        "description":"I have a basic understanding of Node.js, including creating HTTP servers, handling routing, managing asynchronous code, and using modules. I can work with NPM for dependencies, set up environment variables, and have an introductory knowledge of Express.js for building simple web applications."
     }
     ],
 
