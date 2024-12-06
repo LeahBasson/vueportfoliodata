@@ -47,24 +47,76 @@
         }
     ],
 
-    "certificateIntro": [
-        {
-            "id": 1,
-            "title":"AWS" 
-        },
-        {
-            "id": 2,
-            "title":"Girl Code"
-        },
-        {
-            "id": 3,
-            "title":"Life Choices Academy"
-        },
-        {
-            "id": 4,
-            "title":"College of Cape Town"
-        }
-    ],
+    "certificateIntro": 
+    [ 
+        { 
+            "id": 1, 
+            "title": "AWS", 
+            "certificates": 
+            [ { 
+                    "id": 1, 
+                    "img_url": "https://leahbasson.github.io/MyImages/images/IntroToAws.png", 
+                    "certificate": "Introduction to the AWS Cloud" 
+                }, 
+                { 
+                    "id": 2, 
+                    "img_url": "https://leahbasson.github.io/MyImages/images/BuildingACloudCareer.png", 
+                    "certificate": "Building a Cloud Career" 
+                }, 
+                { 
+                    "id": 3, 
+                    "img_url": "https://leahbasson.github.io/MyImages/images/DemistifyingGenAi.png", 
+                    "certificate": "Demystifying Generative AI" 
+                }, 
+                { 
+                    "id": 4, 
+                    "img_url": "https://leahbasson.github.io/MyImages/images/JobRolesInTheCloud.png", 
+                    "certificate": "Job Roles in the Cloud" 
+                }, 
+                { 
+                    "id": 5, 
+                    "img_url": "https://leahbasson.github.io/MyImages/images/WhyGetAwsCertified.png", 
+                    "certificate": "Why Get AWS Certified?" 
+                } ] 
+                }, 
+                { 
+                    "id": 2, 
+                    "title": "Girl Code", 
+                    "certificates": 
+                [ { 
+                    "id": 17, 
+                    "img_url": "https://leahbasson.github.io/MyImages/images/GirlsCode.png", 
+                    "certificate": "Girl Code Hackathon" 
+                } ] }, 
+                { 
+                    "id": 3, 
+                    "title": "Life Choices Academy",
+                    "certificates": 
+                [ { 
+                    "id": 16, 
+                    "img_url": 
+                    "https://leahbasson.github.io/MyImages/images/LCCertificate.png", 
+                    "certificate": "Life Choices - Coding Course completion certificate" 
+                } ] }, 
+                { 
+                    "id": 4, 
+                    "title": "College of Cape Town", 
+                    "certificates": 
+                [ { 
+                    "id": 18, 
+                    "img_url": "https://leahbasson.github.io/MyImages/images/resultsCOCT.jpg", 
+                    "certificate": "College of Cape Town - results" 
+                }, 
+                { 
+                    "id": 19, 
+                    "img_url": "https://leahbasson.github.io/MyImages/images/completionCertificateCOCT.jpg", 
+                    "certificate": "College of Cape Town - completion certificate" 
+                }, 
+                { 
+                    "id": 20, 
+                    "img_url": "https://leahbasson.github.io/MyImages/images/coverLetterCOCT.jpg", 
+                    "certificate": "College of Cape Town - letter of good conduct" 
+                } ] } ],
 
     "certificates": [
         {
