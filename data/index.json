@@ -50,22 +50,18 @@
     "certificateIntro": [
         {
             "id": 1,
-            "img_url":"https://leahbasson.github.io/MyImages/images/aws_image.jpg",
-            "title":"AWS"
+            "title":"AWS" 
         },
         {
             "id": 2,
-            "img_url":"https://leahbasson.github.io/MyImages/images/GirlCodeLogo.png",
             "title":"Girl Code"
         },
         {
             "id": 3,
-            "img_url":"https://leahbasson.github.io/MyImages/images/lifechoices_image.jpg",
             "title":"Life Choices Academy"
         },
         {
             "id": 4,
-            "img_url":"https://leahbasson.github.io/MyImages/images/COCT.png",
             "title":"College of Cape Town"
         }
     ],
