@@ -127,31 +127,6 @@
                     "id": 15,
                     "img_url":"https://leahbasson.github.io/MyImages/images/ExamPrepCertificate.png",
                     "certificate":"Exam Prep - AWS Certified Cloud Practitioner (CLF-C02)"
-                },
-                {
-                    "id": 16,
-                    "img_url":"https://leahbasson.github.io/MyImages/images/LCCertificate.png",
-                    "certificate":"Life Choices - Coding Course completion certificate"
-                },
-                {
-                    "id": 17,
-                    "img_url":"https://leahbasson.github.io/MyImages/images/GirlsCode.png",
-                    "certificate":"Girl Code Hackathon"
-                },
-                {
-                    "id": 18,
-                    "img_url":"https://leahbasson.github.io/MyImages/images/resultsCOCT.jpg",
-                    "certificate":"College of Cape Town - results"
-                },
-                {
-                    "id": 19,
-                    "img_url":"https://leahbasson.github.io/MyImages/images/completionCertificateCOCT.jpg",
-                    "certificate":"College of Cape Town - completion certificate"
-                },
-                {
-                    "id": 20,
-                    "img_url":"https://leahbasson.github.io/MyImages/images/coverLetterCOCT.jpg",
-                    "certificate":"College of Cape Town - letter of good conduct"
                 }
             ] 
                 }, 
