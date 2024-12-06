@@ -77,7 +77,84 @@
                     "id": 5, 
                     "img_url": "https://leahbasson.github.io/MyImages/images/WhyGetAwsCertified.png", 
                     "certificate": "Why Get AWS Certified?" 
-                } ] 
+                },
+            
+                {
+                    "id": 6,
+                    "img_url":"https://leahbasson.github.io/MyImages/images/CF1.png",
+                    "certificate":"Computer Foundations: Part 1 – Computer & Network Hardware"
+                },
+                {
+                    "id": 7,
+                    "img_url":"https://leahbasson.github.io/MyImages/images/CF2.png",
+                    "certificate":"Computer Foundations: Part 2 - Security"
+                },
+                {
+                    "id": 8,
+                    "img_url":"https://leahbasson.github.io/MyImages/images/CF3.png",
+                    "certificate":"Computer Foundations: Part 3 – Storage and Databases"
+                },
+                {
+                    "id": 9,
+                    "img_url":"https://leahbasson.github.io/MyImages/images/CF4.png",
+                    "certificate":"Computer Foundations: Part 4 - Networking"
+                },
+                {
+                    "id": 10,
+                    "img_url":"https://leahbasson.github.io/MyImages/images/BCP1.png",
+                    "certificate":"Becoming a Cloud Practitioner - Part 1 - AWS Cloud Basics"
+                },
+                {
+                    "id": 11,
+                    "img_url":"https://leahbasson.github.io/MyImages/images/BCP2.png",
+                    "certificate":"Becoming a Cloud Practitioner - Part 2 - Compute, Networking, and Account Strategies"
+                },
+                {
+                    "id": 12,
+                    "img_url":"https://leahbasson.github.io/MyImages/images/BCP3.png",
+                    "certificate":"Becoming a Cloud Practitioner - Part 3 - Identities, Security, and Monitoring the AWS Cloud"
+                },
+                {
+                    "id": 13,
+                    "img_url":"https://leahbasson.github.io/MyImages/images/BCP4.png",
+                    "certificate":"Becoming a Cloud Practitioner - Part 4 - Advanced Cloud Services"
+                },
+                {
+                    "id": 14,
+                    "img_url":"https://leahbasson.github.io/MyImages/images/BCPLab.png",
+                    "certificate":"Becoming a Cloud Practitioner Lab Session"
+                },
+                {
+                    "id": 15,
+                    "img_url":"https://leahbasson.github.io/MyImages/images/ExamPrepCertificate.png",
+                    "certificate":"Exam Prep - AWS Certified Cloud Practitioner (CLF-C02)"
+                },
+                {
+                    "id": 16,
+                    "img_url":"https://leahbasson.github.io/MyImages/images/LCCertificate.png",
+                    "certificate":"Life Choices - Coding Course completion certificate"
+                },
+                {
+                    "id": 17,
+                    "img_url":"https://leahbasson.github.io/MyImages/images/GirlsCode.png",
+                    "certificate":"Girl Code Hackathon"
+                },
+                {
+                    "id": 18,
+                    "img_url":"https://leahbasson.github.io/MyImages/images/resultsCOCT.jpg",
+                    "certificate":"College of Cape Town - results"
+                },
+                {
+                    "id": 19,
+                    "img_url":"https://leahbasson.github.io/MyImages/images/completionCertificateCOCT.jpg",
+                    "certificate":"College of Cape Town - completion certificate"
+                },
+                {
+                    "id": 20,
+                    "img_url":"https://leahbasson.github.io/MyImages/images/coverLetterCOCT.jpg",
+                    "certificate":"College of Cape Town - letter of good conduct"
+                }
+                ] 
                 }, 
                 { 
                     "id": 2, 
