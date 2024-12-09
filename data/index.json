@@ -173,36 +173,87 @@
                     "certificate": "College of Cape Town - letter of good conduct" 
                 } ] } ],
 
-    "bagdes": [
+    "badgeIntro":
+    [
         {
             "id":1,
-            "bagde":"https://leahbasson.github.io/MyImages/images/OSBBadge.png",
-            "certificate":"https://leahbasson.github.io/MyImages/images/OSBCertificate.png",
-            "title":"Operating Systems Basics"
+            "title":"Operating Systems Basics",
+            "badgeInfo":
+            [   {
+                    "id":1,
+                    "badge":"https://leahbasson.github.io/MyImages/images/OSBBadge.png",
+                    "certificate":"https://leahbasson.github.io/MyImages/images/OSBCertificate.png"
+                }
+            ]
         },
         {
             "id":2,
-            "bagde":"https://leahbasson.github.io/MyImages/images/linuxBadge.png",
-            "certificate":"https://leahbasson.github.io/MyImages/images/LinuxUnhatchedCertificate.png",
-            "title":"Linux Unhatched"
+            "title":"Linux Unhatched",
+            "badgeInfo":
+            [   {
+                    "id":1,
+                    "badge":"https://leahbasson.github.io/MyImages/images/linuxBadge.png",
+                    "certificate":"https://leahbasson.github.io/MyImages/images/LinuxUnhatchedCertificate.png"
+                }
+            ]
         },
         {
             "id":3,
-            "bagde":"https://leahbasson.github.io/MyImages/images/junior-cybersecurity-analyst-career-badge.png",
-            "certificate":"https://leahbasson.github.io/MyImages/images/junior-cybersecurity-analyst-certificate.png",
-            "title":"Junior Cybersecurity Analyst"
+            "title":"Junior Cybersecurity Analyst",
+            "badgeInfo":
+            [   {
+                    "id":1,
+                    "bagde":"https://leahbasson.github.io/MyImages/images/junior-cybersecurity-analyst-career-badge.png",
+                    "certificate":"https://leahbasson.github.io/MyImages/images/junior-cybersecurity-analyst-certificate.png"
+                }
+            ]
         },
         {
             "id":4,
-            "bagde":"https://leahbasson.github.io/MyImages/images/UIUX.png",
-            "img_url":"https://leahbasson.github.io/MyImages/images/UiAndUxDoc.png",
-            "title":"UI/UX Hackathon"
+            "title":"Ethical Hacker",
+            "badgeInfo":
+            [   {
+                    "id":1,
+                    "bagde":"https://leahbasson.github.io/MyImages/images/ethical-hacker-badge.png",
+                    "certificate":"https://leahbasson.github.io/MyImages/images/ethical-hacker-certificate.png"
+                }
+            ]
         },
         {
             "id":5,
-            "bagde":"https://leahbasson.github.io/MyImages/images/SCRUM.png",
-            "img_url":"https://leahbasson.github.io/MyImages/images/ScrumDoc.png",
-            "title":"SCRUM Hackathon"
+            "title":"UI/UX Hackathon",
+            "badgeInfo":
+            [   {
+                    "id":1,
+                    "bagde":"https://leahbasson.github.io/MyImages/images/UIUX.png",
+                    "certificate":"https://leahbasson.github.io/MyImages/images/junior-cybersecurity-analyst-certificate.png"
+                }
+            ]
+        }
+    ],       
+
+    "caseStudies": [
+        {
+            "id":1,
+            "title":"UI/UX Hackathon",
+            "badgeInfo":
+            [   {
+                    "id":1,
+                    "bagde":"https://leahbasson.github.io/MyImages/images/UIUX.png",
+                    "img_url":"https://leahbasson.github.io/MyImages/images/UiAndUxDoc.png"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "title":"SCRUM Hackathon",
+            "badgeInfo":
+            [   {
+                    "id":1,
+                    "bagde":"https://leahbasson.github.io/MyImages/images/SCRUM.png",
+                    "img_url":"https://leahbasson.github.io/MyImages/images/ScrumDoc.png"
+                }
+            ]
         }
     ],
 
