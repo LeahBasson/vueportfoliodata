@@ -177,6 +177,7 @@
     [
         {
             "id":1,
+            "icon":"icons8-badge-50.png",
             "title":"Operating Systems Basics",
             "badgeInfo":
             [   {
@@ -188,6 +189,7 @@
         },
         {
             "id":2,
+            "icon":"icons8-badge-50.png",
             "title":"Linux Unhatched",
             "badgeInfo":
             [   {
@@ -199,6 +201,7 @@
         },
         {
             "id":3,
+            "icon":"icons8-badge-50.png",
             "title":"Junior Cybersecurity Analyst",
             "badgeInfo":
             [   {
@@ -210,6 +213,7 @@
         },
         {
             "id":4,
+            "icon":"icons8-badge-50.png",
             "title":"Ethical Hacker",
             "badgeInfo":
             [   {
@@ -221,6 +225,7 @@
         },
         {
             "id":5,
+            "icon":"icons8-badge-50.png",
             "title":"UI/UX Hackathon",
             "badgeInfo":
             [   {
@@ -235,6 +240,7 @@
     "caseStudies": [
         {
             "id":1,
+            "icon":"icons8-badge-50.png",
             "title":"UI/UX Hackathon",
             "badgeInfo":
             [   {
@@ -246,6 +252,7 @@
         },
         {
             "id":2,
+            "icon":"icons8-badge-50.png",
             "title":"SCRUM Hackathon",
             "badgeInfo":
             [   {
