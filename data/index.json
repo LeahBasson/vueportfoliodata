@@ -51,7 +51,7 @@
     [ 
         { 
             "id": 1, 
-            "icon": "https://leahbasson.github.io/MyImages/images/icons8-certificate-50.png",
+            "icon": "https://leahbasson.github.io/MyImages/images/certificate50.png",
             "title": "AWS", 
             "certificates": 
             [ { 
@@ -133,7 +133,7 @@
                 }, 
                 { 
                     "id": 2,
-                    "icon": "https://leahbasson.github.io/MyImages/images/icons8-certificate-50.png", 
+                    "icon": "https://leahbasson.github.io/MyImages/images/certificate50.png", 
                     "title": "Girl Code", 
                     "certificates": 
                 [ { 
@@ -143,7 +143,7 @@
                 } ] }, 
                 { 
                     "id": 3,
-                    "icon": "https://leahbasson.github.io/MyImages/images/icons8-certificate-50.png", 
+                    "icon": "https://leahbasson.github.io/MyImages/images/certificate50.png", 
                     "title": "Life Choices Academy",
                     "certificates": 
                 [ { 
@@ -154,7 +154,7 @@
                 } ] }, 
                 { 
                     "id": 4,
-                    "icon": "https://leahbasson.github.io/MyImages/images/icons8-certificate-50.png", 
+                    "icon": "https://leahbasson.github.io/MyImages/images/certificate50.png", 
                     "title": "College of Cape Town", 
                     "certificates": 
                 [ { 
