@@ -222,18 +222,6 @@
                     "certificate":"https://leahbasson.github.io/MyImages/images/ethical-hacker-certificate.png"
                 }
             ]
-        },
-        {
-            "id":5,
-            "icon":"https://leahbasson.github.io/MyImages/images/icons8-badge-50.png",
-            "title":"UI/UX Hackathon",
-            "badgeInfo":
-            [   {
-                    "id":1,
-                    "bagde":"https://leahbasson.github.io/MyImages/images/UIUX.png",
-                    "certificate":"https://leahbasson.github.io/MyImages/images/junior-cybersecurity-analyst-certificate.png"
-                }
-            ]
         }
     ],       
 
