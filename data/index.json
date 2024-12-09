@@ -51,6 +51,7 @@
     [ 
         { 
             "id": 1, 
+            "icon": "https://leahbasson.github.io/MyImages/images/icons8-certificate-50.png",
             "title": "AWS", 
             "certificates": 
             [ { 
@@ -131,7 +132,8 @@
             ] 
                 }, 
                 { 
-                    "id": 2, 
+                    "id": 2,
+                    "icon": "https://leahbasson.github.io/MyImages/images/icons8-certificate-50.png", 
                     "title": "Girl Code", 
                     "certificates": 
                 [ { 
@@ -140,7 +142,8 @@
                     "certificate": "Girl Code Hackathon" 
                 } ] }, 
                 { 
-                    "id": 3, 
+                    "id": 3,
+                    "icon": "https://leahbasson.github.io/MyImages/images/icons8-certificate-50.png", 
                     "title": "Life Choices Academy",
                     "certificates": 
                 [ { 
@@ -150,7 +153,8 @@
                     "certificate": "Life Choices - Coding Course completion certificate" 
                 } ] }, 
                 { 
-                    "id": 4, 
+                    "id": 4,
+                    "icon": "https://leahbasson.github.io/MyImages/images/icons8-certificate-50.png", 
                     "title": "College of Cape Town", 
                     "certificates": 
                 [ { 
