@@ -183,7 +183,7 @@
             [   {
                     "id":1,
                     "badge":"https://leahbasson.github.io/MyImages/images/OSBBadge.png",
-                    "certificate":"https://leahbasson.github.io/MyImages/images/OSBCertificate.png"
+                    "certificate":"https://leahbasson.github.io/osbCertificate/"
                 }
             ]
         },
@@ -195,7 +195,7 @@
             [   {
                     "id":1,
                     "badge":"https://leahbasson.github.io/MyImages/images/linuxBadge.png",
-                    "certificate":"https://leahbasson.github.io/MyImages/images/LinuxUnhatchedCertificate.png"
+                    "certificate":"https://leahbasson.github.io/linuxModal/"
                 }
             ]
         },
@@ -207,7 +207,7 @@
             [   {
                     "id":1,
                     "badge":"https://leahbasson.github.io/MyImages/images/junior-cybersecurity-analyst-career-badge.png",
-                    "certificate":"https://leahbasson.github.io/MyImages/images/juniorCyberAnalystImage.png"
+                    "certificate":"https://leahbasson.github.io/juniorCyberAnalyst/"
                 }
             ]
         },
@@ -219,7 +219,7 @@
             [   {
                     "id":1,
                     "badge":"https://leahbasson.github.io/MyImages/images/ethical-hacker.png",
-                    "certificate":"https://leahbasson.github.io/MyImages/images/ethical-hacker-certificate.png"
+                    "certificate":"https://leahbasson.github.io/ethicalHackerCertificate/"
                 }
             ]
         }
