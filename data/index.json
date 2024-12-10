@@ -233,7 +233,7 @@
             "badgeInfo":
             [   {
                     "id":1,
-                    "bagde":"https://leahbasson.github.io/MyImages/images/UIUX.png",
+                    "badge":"https://leahbasson.github.io/MyImages/images/UIUX.png",
                     "img_url":"https://leahbasson.github.io/MyImages/images/UiAndUxDoc.png"
                 }
             ]
@@ -245,7 +245,7 @@
             "badgeInfo":
             [   {
                     "id":1,
-                    "bagde":"https://leahbasson.github.io/MyImages/images/SCRUM.png",
+                    "badge":"https://leahbasson.github.io/MyImages/images/SCRUM.png",
                     "img_url":"https://leahbasson.github.io/MyImages/images/ScrumDoc.png"
                 }
             ]
