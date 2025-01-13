@@ -171,6 +171,21 @@
             "id": 20, 
             "img_url": "https://leahbasson.github.io/MyImages/images/coverLetterCOCT.jpg", 
             "certificate": "College of Cape Town - letter of good conduct" 
+        },
+        {
+            "id": 21, 
+            "img_url": "https://leahbasson.github.io/MyImages/images/jscertificate.jpg", 
+            "certificate": "Life Choices - Outstanding performance certificate for javascript project"
+        },
+        {
+            "id": 22, 
+            "img_url": "https://leahbasson.github.io/MyImages/images/vuecertificate.jpg", 
+            "certificate": "Life Choices - Outstanding performance certificate for vue project"
+        },
+        {
+            "id": 23, 
+            "img_url": "https://leahbasson.github.io/MyImages/images/bootstrapcertificate.jpg", 
+            "certificate": "Life Choices - Outstanding performance certificate for bootstrap project"
         }
         ] ,
    
