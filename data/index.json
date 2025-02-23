@@ -1,6 +1,6 @@
 {
     "about":[
-       "I'm excited to invite you to explore and get to know a bit more about me. I'm Leah Basson, a 20-year-old from the southern suburbs, with a passion for design and web development. I am goal oriented, sometimes I lose track of time because I'm so invested in my tasks and projects. I am an organized person so I like making to do lists. I'm not afraid to ask questions and I work well in a team."
+       "I'm excited to invite you to explore and get to know a bit more about me. I'm Leah Basson, a 20-year-old from the southern suburbs, with a passion for design and web development. Inspired by my love for technology and Marvel movies, particularly Iron Man, I believe in the limitless possibilities of technology. I am goal oriented, sometimes I lose track of time because I'm so invested in my tasks and projects. I am an organized person so I like making to do lists. I'm not afraid to ask questions and I work well in a team."
     ],
 
     "quote":[
@@ -10,9 +10,9 @@
     "education":[
         {
             "id": 1,
-            "year":"2024",
-            "certificate":"Fullstack Web Development Course",
-            "location":"Life Choices - Lansdowne, Cape Town"
+            "year":"2025",
+            "certificate":"Currently a Multimedia Applications student.",
+            "location":"Cape Penisula University of Technology - District Six, Cape Town"
         },
         {
             "id": 2,
@@ -25,6 +25,12 @@
             "year":"2022",
             "certificate":"Matric: Bachelor's Pass",
             "location":"Alexander Sinton High School - Athlone, Cape Town"
+        },
+        {
+            "id": 4,
+            "year":"2024",
+            "certificate":"Fullstack Web Development Course",
+            "location":"Life Choices - Lansdowne, Cape Town"
         }
     ],
 
@@ -32,7 +38,7 @@
         {
             "id": 1,
             "year": "2024",
-            "job": "Currently an intern",
+            "job": "Intern",
             "location": "LC Studio - Lansdowne, Cape Town"
         }
     ],
