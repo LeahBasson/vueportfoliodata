@@ -7,11 +7,15 @@
         "”Dream it and then make it happen”"
     ],
 
+    "hobbies":[
+        "Outfit Planning, Scrapbooking & Hairstyling"
+    ],
+
     "education":[
         {
             "id": 1,
             "year":"2025",
-            "certificate":"Currently a Multimedia Applications student.",
+            "certificate":"Multimedia Applications student",
             "location":"Cape Penisula University of Technology - District Six, Cape Town"
         },
         {
