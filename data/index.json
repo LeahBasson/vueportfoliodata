@@ -336,6 +336,13 @@
         "img_url":"https://leahbasson.github.io/MyImages/images/icons8-mysql-120.png",
         "level":"Beginner",
         "description":"I have a solid understanding of MySQL basics, including creating and managing databases, writing SQL queries to insert, update, and retrieve data, handling table relationships with foreign keys, and using joins to combine data from multiple tables. Additionally, I can integrate MySQL with Node.js for dynamic web applications."
+    },
+    {
+        "id":10,
+        "skillName":"Git",
+        "img_url":"https://leahbasson.github.io/MyImages/images/icons8-git-120.png",
+        "level":"Beginner",
+        "description":"I have a basic understanding of Git, including initializing repositories, cloning projects, creating and switching branches, staging and committing changes, pushing to remote repositories, and collaborating using GitHub. I can efficiently manage version control and track changes in my projects."
     }
     ],
 
