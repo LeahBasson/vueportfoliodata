@@ -329,6 +329,13 @@
         "img_url":"https://leahbasson.github.io/MyImages/images/nodejs-icon-120.png",
         "level":"Beginner",
         "description":"I have a basic understanding of Node.js, including creating HTTP servers, handling routing, managing asynchronous code, and using modules. I can work with NPM for dependencies, set up environment variables, and have an introductory knowledge of Express.js for building simple web applications."
+    },
+    {
+        "id":9,
+        "skillName":"MySql",
+        "img_url":"https://leahbasson.github.io/MyImages/images/icons8-mysql-120.png",
+        "level":"Beginner",
+        "description":"I have a solid understanding of MySQL basics, including creating and managing databases, writing SQL queries to insert, update, and retrieve data, handling table relationships with foreign keys, and using joins to combine data from multiple tables. Additionally, I can integrate MySQL with Node.js for dynamic web applications."
     }
     ],
 
